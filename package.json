@@ -9,6 +9,7 @@
   "author": "Lorenzo Vuur",
   "license": "ISC",
   "dependencies": {
+    "okapiframework": "^0.1.0"
   },
   "devDependencies": {
     "del": "^2.2.0",

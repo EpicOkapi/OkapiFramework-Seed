@@ -19,7 +19,10 @@
     "compileOnSave": false,
     "buildOnSave": false,
     "files": [
-        "src/index.ts"
+        "src/config.ts",
+        "src/index.ts",
+        "typings/globals/node/index.d.ts",
+        "typings/index.d.ts"
     ],
     "exclude": [
         "node_modules"
