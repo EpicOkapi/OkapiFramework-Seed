@@ -19,9 +19,14 @@
     "compileOnSave": false,
     "buildOnSave": false,
     "files": [
+        "src/config.ts",
         "src/index.ts",
+        "src/task/controller/task.controller.ts",
+        "src/task/entity/task.ts",
+        "src/task/repository/task.repository.ts",
         "typings/globals/node/index.d.ts",
-        "typings/index.d.ts"
+        "typings/index.d.ts",
+        "typings/modules/express/index.d.ts"
     ],
     "exclude": [
         "node_modules"
